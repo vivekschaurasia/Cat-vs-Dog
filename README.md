@@ -15,7 +15,7 @@ https://www.superdatascience.com/pages/deep-learning
 
 The classification model is written in python language in a colab notebook environment.
 
-## List of Hyperparameters:
+##  List of Hyperparameters:
 
 Parameters: batch_size, Learning _rate, epochs, Keep_probability, learning_rate_decay
 
