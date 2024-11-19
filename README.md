@@ -20,4 +20,4 @@ The classification model is written in python language in a colab notebook envir
 Parameters: batch_size, Learning _rate, epochs, Keep_probability, learning_rate_decay
 
 ## Accuracy:
-After training 100 epoch, we got a accuracy of 98%
+After training 100 epoch, we got a accuracy of 98.5%
